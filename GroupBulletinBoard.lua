@@ -927,6 +927,7 @@ GBB_PhraseMessage = function(msg, name, guid, channel)
         if GroupBulletinBoardDB.NotifySound then
             -- PlaySound(1210)
 			PlaySound(8043)
+			
         end
     end
 
